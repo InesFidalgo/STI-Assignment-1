@@ -1,0 +1,3 @@
+V	180306224157Z		01	unknown	/C=PT/ST=Coimbra/O=UC/OU=DEI/CN=www.stiapache.ri.pt/emailAddress=apache@dei.uc.pt
+V	180306225315Z		02	unknown	/C=PT/ST=Coimbra/O=UC/OU=DEI/CN=Ines Fidalgo/emailAddress=if@dei.uc.pt
+V	180308135224Z		03	unknown	/C=PT/ST=Coimbra/O=UC/OU=DEI/CN=Road Warrior/emailAddress=roadwarrior@dei.uc.pt

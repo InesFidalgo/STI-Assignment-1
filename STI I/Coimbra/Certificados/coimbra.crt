@@ -1,0 +1,65 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number: 3 (0x3)
+    Signature Algorithm: sha1WithRSAEncryption
+        Issuer: C=PT, ST=Coimbra, L=Coimbra, O=UC, OU=DEI, CN=STI CA/emailAddress=sti_ca@dei.uc.pt
+        Validity
+            Not Before: Mar  8 13:43:07 2017 GMT
+            Not After : Mar  8 13:43:07 2018 GMT
+        Subject: C=PT, ST=Coimbra, O=UC, OU=DEI, CN=Coimbra/emailAddress=coimbra@dei.uc.pt
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (1024 bit)
+                Modulus:
+                    00:da:5c:97:c7:2e:44:a1:87:07:d4:a0:a1:45:82:
+                    3d:85:f6:24:a7:11:9f:a6:d8:86:07:24:7f:ec:f3:
+                    9e:e2:be:b0:b2:cb:e8:9d:1f:0e:6b:3b:f6:75:41:
+                    3a:55:0c:35:4b:32:e3:bf:25:64:59:0b:01:3e:a5:
+                    90:27:0f:99:7e:f3:f3:3e:5a:11:21:30:37:36:0c:
+                    4a:3f:e6:65:8b:c1:06:82:6d:c8:83:ac:88:8d:87:
+                    9d:c4:ff:80:7e:cf:5c:75:5e:05:a7:a0:2f:50:29:
+                    ac:0e:a4:59:53:b5:73:1c:b8:fa:32:bf:2e:8f:c3:
+                    34:00:92:f2:8b:50:d8:bd:55
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Basic Constraints: 
+                CA:FALSE
+            Netscape Comment: 
+                OpenSSL Generated Certificate
+            X509v3 Subject Key Identifier: 
+                3B:E5:85:F0:A3:62:BD:D4:3F:3F:B7:F9:2C:DB:60:FF:BB:CD:D9:5C
+            X509v3 Authority Key Identifier: 
+                DirName:/C=PT/ST=Coimbra/L=Coimbra/O=UC/OU=DEI/CN=STI CA/emailAddress=sti_ca@dei.uc.pt
+                serial:BD:14:6A:0A:83:07:18:3F
+
+    Signature Algorithm: sha1WithRSAEncryption
+         69:11:f8:7a:50:b9:4f:b2:73:15:a6:e5:b0:a6:a7:8a:b5:42:
+         9c:4a:b3:ce:1c:51:8c:f3:4b:44:e2:15:9b:33:0e:99:90:ab:
+         ab:66:d1:20:d9:08:a4:fe:4e:73:10:98:48:9e:b8:a6:59:0e:
+         66:f2:4b:4c:d8:79:d5:7f:2f:b0:a8:dd:2e:8a:02:4b:1d:60:
+         95:24:02:c2:ef:54:1b:a1:de:ad:2d:45:f3:27:bc:2d:06:03:
+         4b:f7:58:6e:21:ce:d1:96:c1:0c:7c:26:55:d8:cb:31:c0:80:
+         66:d3:66:62:f6:b0:88:99:7a:45:ed:b2:13:0b:74:e0:4f:7f:
+         9f:9d
+-----BEGIN CERTIFICATE-----
+MIIDXTCCAsagAwIBAgIBAzANBgkqhkiG9w0BAQUFADB+MQswCQYDVQQGEwJQVDEQ
+MA4GA1UECAwHQ29pbWJyYTEQMA4GA1UEBwwHQ29pbWJyYTELMAkGA1UECgwCVUMx
+DDAKBgNVBAsMA0RFSTEPMA0GA1UEAwwGU1RJIENBMR8wHQYJKoZIhvcNAQkBFhBz
+dGlfY2FAZGVpLnVjLnB0MB4XDTE3MDMwODEzNDMwN1oXDTE4MDMwODEzNDMwN1ow
+bjELMAkGA1UEBhMCUFQxEDAOBgNVBAgMB0NvaW1icmExCzAJBgNVBAoMAlVDMQww
+CgYDVQQLDANERUkxEDAOBgNVBAMMB0NvaW1icmExIDAeBgkqhkiG9w0BCQEWEWNv
+aW1icmFAZGVpLnVjLnB0MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDaXJfH
+LkShhwfUoKFFgj2F9iSnEZ+m2IYHJH/s857ivrCyy+idHw5rO/Z1QTpVDDVLMuO/
+JWRZCwE+pZAnD5l+8/M+WhEhMDc2DEo/5mWLwQaCbciDrIiNh53E/4B+z1x1XgWn
+oC9QKawOpFlTtXMcuPoyvy6PwzQAkvKLUNi9VQIDAQABo4H6MIH3MAkGA1UdEwQC
+MAAwLAYJYIZIAYb4QgENBB8WHU9wZW5TU0wgR2VuZXJhdGVkIENlcnRpZmljYXRl
+MB0GA1UdDgQWBBQ75YXwo2K91D8/t/ks22D/u83ZXDCBnAYDVR0jBIGUMIGRoYGD
+pIGAMH4xCzAJBgNVBAYTAlBUMRAwDgYDVQQIDAdDb2ltYnJhMRAwDgYDVQQHDAdD
+b2ltYnJhMQswCQYDVQQKDAJVQzEMMAoGA1UECwwDREVJMQ8wDQYDVQQDDAZTVEkg
+Q0ExHzAdBgkqhkiG9w0BCQEWEHN0aV9jYUBkZWkudWMucHSCCQC9FGoKgwcYPzAN
+BgkqhkiG9w0BAQUFAAOBgQBpEfh6ULlPsnMVpuWwpqeKtUKcSrPOHFGM80tE4hWb
+Mw6ZkKurZtEg2Qik/k5zEJhInrimWQ5m8ktM2HnVfy+wqN0uigJLHWCVJALC71Qb
+od6tLUXzJ7wtBgNL91huIc7RlsEMfCZV2MsxwIBm02Zi9rCImXpF7bITC3TgT3+f
+nQ==
+-----END CERTIFICATE-----
